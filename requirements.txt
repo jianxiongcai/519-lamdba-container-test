@@ -1,0 +1,13 @@
+gradescope-utils>=0.2.7
+subprocess32
+dill
+PyYAML
+pandas
+numpy
+nbconvert
+ipython
+matplotlib
+sklearn
+seaborn
+xlrd
+jupyterlab
